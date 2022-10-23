@@ -1,0 +1,10 @@
+.app .map {
+  width: 100vw;
+  height: auto;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100vh;
+  z-index: 5;
+}
